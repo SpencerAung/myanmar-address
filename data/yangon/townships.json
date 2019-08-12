@@ -1,0 +1,167 @@
+[
+  {
+    "en": "Ahlon",
+    "mm": "အလုံ",
+    "code": "AHLN"
+  },
+  {
+    "en": "Bahan",
+    "mm": "ဗဟန်း",
+    "code": "BHN"
+  },
+  {
+    "en": "Dagon",
+    "mm": "ဒဂုံ",
+    "code": "DGN"
+  },
+  {
+    "en": "Kyauktada",
+    "mm": "ကျောက်တံတား",
+    "code": "KTDA"
+  },
+  {
+    "en": "Kyimyindaing",
+    "mm": "ကြည့်မြင်တိုင်",
+    "code": "KMDN"
+  },
+  {
+    "en": "Lanmadaw",
+    "mm": "လမ်းမတော်",
+    "code": "LMDW"
+  },
+  {
+    "en": "Seikkan",
+    "mm": "ဆိပ်ကမ်း",
+    "code": "SKN"
+  },
+  {
+    "en": "Latha",
+    "mm": "လသာ",
+    "code": "LTA"
+  },
+  {
+    "en": "Pabedan",
+    "mm": "ပန်းပဲတန်း",
+    "code": "PBDN"
+  },
+  {
+    "en": "Sanchaung",
+    "mm": "စမ်းချောင်း",
+    "code": "SCHG"
+  },
+  {
+    "en": "Dagon Seikkan",
+    "mm": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
+    "code": "DGSK"
+  },
+  {
+    "en": "East Dagon",
+    "mm": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
+    "code": "EDGN"
+  },
+  {
+    "en": "North Dagon",
+    "mm": "ဒဂုံမြို့သစ်မြောက်ပိုင်း",
+    "code": "NDGN"
+  },
+  {
+    "en": "North Okkalapa",
+    "mm": "မြောက်ဥက္ကလာပ",
+    "code": "NOKA"
+  },
+  {
+    "en": "South Dagon",
+    "mm": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
+    "code": "SDGN"
+  },
+  {
+    "en": "South Okkalapa",
+    "mm": "တောင်ဥက္ကလာပ",
+    "code": "SOKA"
+  },
+  {
+    "en": "Thingangyun",
+    "mm": "သင်္ကန်းကျွန်း",
+    "code": "TGGN"
+  },
+  {
+    "en": "Dala",
+    "mm": "ဒလ",
+    "code": "DALA"
+  },
+  {
+    "en": "Dawbon",
+    "mm": "ဒေါပုံ",
+    "code": "DWBN"
+  },
+  {
+    "en": "Botataung",
+    "mm": "ဗိုလ်တထောင်",
+    "code": "BTHG"
+  },
+  {
+    "en": "Mingala Taungnyunt",
+    "mm": "မင်္ဂလာတောင်ညွန့်",
+    "code": "MTNT"
+  },
+  {
+    "en": "Seikkyi Kanaungto",
+    "mm": "ဆိပ်ကြီးခနောင်တို",
+    "code": "SGKT"
+  },
+  {
+    "en": "Tamwe",
+    "mm": "တာမွေ",
+    "code": "TWME"
+  },
+  {
+    "en": "Pazundaung",
+    "mm": "ပုစွန်တောင်",
+    "code": "PZDG"
+  },
+  {
+    "en": "Thaketa",
+    "mm": "သာကေတ",
+    "code": "TKA"
+  },
+  {
+    "en": "Yankin",
+    "mm": "ရန်ကင်း",
+    "code": "YKN"
+  },
+  {
+    "en": "Insein",
+    "mm": "အင်းစိန်",
+    "code": "ISN"
+  },
+  {
+    "en": "Hlaing",
+    "mm": "လှိုင်",
+    "code": "HLG"
+  },
+  {
+    "en": "Hlaingthaya",
+    "mm": "လှိုင်သာယာ",
+    "code": "HLTY"
+  },
+  {
+    "en": "Kamayut",
+    "mm": "ကမာရွတ်",
+    "code": "KMYT"
+  },
+  {
+    "en": "Mayangon",
+    "mm": "မရမ်းကုန်း",
+    "code": "MYGN"
+  },
+  {
+    "en": "Mingaladon",
+    "mm": "မင်္ဂလာဒုံ",
+    "code": "MGDN"
+  },
+  {
+    "en": "Shwepyitha",
+    "mm": "ရွှေပြည်သာ",
+    "code": "SPTA"
+  }
+]
