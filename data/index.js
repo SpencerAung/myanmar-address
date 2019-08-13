@@ -1,4 +1,5 @@
 const { region, state, unionTerritory } = require('./types');
+const Yangon = require('./yangon');
 
 module.exports = [
   {
@@ -67,9 +68,7 @@ module.exports = [
     type: region,
   },
   {
-    name: 'Yangon',
-    localName: 'ရန်ကုန်',
-    type: region,
+    ...Yangon,
   },
   {
     name: 'Naypidaw',
