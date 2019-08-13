@@ -1,167 +1,167 @@
 [
   {
-    "en": "Ahlon",
-    "mm": "အလုံ",
+    "name": "Ahlon",
+    "localName": "အလုံ",
     "shortName": "AHLN"
   },
   {
-    "en": "Bahan",
-    "mm": "ဗဟန်း",
+    "name": "Bahan",
+    "localName": "ဗဟန်း",
     "shortName": "BHN"
   },
   {
-    "en": "Dagon",
-    "mm": "ဒဂုံ",
+    "name": "Dagon",
+    "localName": "ဒဂုံ",
     "shortName": "DGN"
   },
   {
-    "en": "Kyauktada",
-    "mm": "ကျောက်တံတား",
+    "name": "Kyauktada",
+    "localName": "ကျောက်တံတား",
     "shortName": "KTDA"
   },
   {
-    "en": "Kyimyindaing",
-    "mm": "ကြည့်မြင်တိုင်",
+    "name": "Kyimyindaing",
+    "localName": "ကြည့်မြင်တိုင်",
     "shortName": "KMDN"
   },
   {
-    "en": "Lanmadaw",
-    "mm": "လမ်းမတော်",
+    "name": "Lanmadaw",
+    "localName": "လမ်းမတော်",
     "shortName": "LMDW"
   },
   {
-    "en": "Seikkan",
-    "mm": "ဆိပ်ကမ်း",
+    "name": "Seikkan",
+    "localName": "ဆိပ်ကမ်း",
     "shortName": "SKN"
   },
   {
-    "en": "Latha",
-    "mm": "လသာ",
+    "name": "Latha",
+    "localName": "လသာ",
     "shortName": "LTA"
   },
   {
-    "en": "Pabedan",
-    "mm": "ပန်းပဲတန်း",
+    "name": "Pabedan",
+    "localName": "ပန်းပဲတန်း",
     "shortName": "PBDN"
   },
   {
-    "en": "Sanchaung",
-    "mm": "စမ်းချောင်း",
+    "name": "Sanchaung",
+    "localName": "စမ်းချောင်း",
     "shortName": "SCHG"
   },
   {
-    "en": "Dagon Seikkan",
-    "mm": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
+    "name": "Dagon Seikkan",
+    "localName": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
     "shortName": "DGSK"
   },
   {
-    "en": "East Dagon",
-    "mm": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
+    "name": "East Dagon",
+    "localName": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
     "shortName": "EDGN"
   },
   {
-    "en": "North Dagon",
-    "mm": "ဒဂုံမြို့သစ်မြောက်ပိုင်း",
+    "name": "North Dagon",
+    "localName": "ဒဂုံမြို့သစ်မြောက်ပိုင်း",
     "shortName": "NDGN"
   },
   {
-    "en": "North Okkalapa",
-    "mm": "မြောက်ဥက္ကလာပ",
+    "name": "North Okkalapa",
+    "localName": "မြောက်ဥက္ကလာပ",
     "shortName": "NOKA"
   },
   {
-    "en": "South Dagon",
-    "mm": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
+    "name": "South Dagon",
+    "localName": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
     "shortName": "SDGN"
   },
   {
-    "en": "South Okkalapa",
-    "mm": "တောင်ဥက္ကလာပ",
+    "name": "South Okkalapa",
+    "localName": "တောင်ဥက္ကလာပ",
     "shortName": "SOKA"
   },
   {
-    "en": "Thingangyun",
-    "mm": "သင်္ကန်းကျွန်း",
+    "name": "Thingangyun",
+    "localName": "သင်္ကန်းကျွန်း",
     "shortName": "TGGN"
   },
   {
-    "en": "Dala",
-    "mm": "ဒလ",
+    "name": "Dala",
+    "localName": "ဒလ",
     "shortName": "DALA"
   },
   {
-    "en": "Dawbon",
-    "mm": "ဒေါပုံ",
+    "name": "Dawbon",
+    "localName": "ဒေါပုံ",
     "shortName": "DWBN"
   },
   {
-    "en": "Botataung",
-    "mm": "ဗိုလ်တထောင်",
+    "name": "Botataung",
+    "localName": "ဗိုလ်တထောင်",
     "shortName": "BTHG"
   },
   {
-    "en": "Mingala Taungnyunt",
-    "mm": "မင်္ဂလာတောင်ညွန့်",
+    "name": "Mingala Taungnyunt",
+    "localName": "မင်္ဂလာတောင်ညွန့်",
     "shortName": "MTNT"
   },
   {
-    "en": "Seikkyi Kanaungto",
-    "mm": "ဆိပ်ကြီးခနောင်တို",
+    "name": "Seikkyi Kanaungto",
+    "localName": "ဆိပ်ကြီးခနောင်တို",
     "shortName": "SGKT"
   },
   {
-    "en": "Tamwe",
-    "mm": "တာမွေ",
+    "name": "Tamwe",
+    "localName": "တာမွေ",
     "shortName": "TWME"
   },
   {
-    "en": "Pazundaung",
-    "mm": "ပုစွန်တောင်",
+    "name": "Pazundaung",
+    "localName": "ပုစွန်တောင်",
     "shortName": "PZDG"
   },
   {
-    "en": "Thaketa",
-    "mm": "သာကေတ",
+    "name": "Thaketa",
+    "localName": "သာကေတ",
     "shortName": "TKA"
   },
   {
-    "en": "Yankin",
-    "mm": "ရန်ကင်း",
+    "name": "Yankin",
+    "localName": "ရန်ကင်း",
     "shortName": "YKN"
   },
   {
-    "en": "Insein",
-    "mm": "အင်းစိန်",
+    "name": "Insein",
+    "localName": "အင်းစိန်",
     "shortName": "ISN"
   },
   {
-    "en": "Hlaing",
-    "mm": "လှိုင်",
+    "name": "Hlaing",
+    "localName": "လှိုင်",
     "shortName": "HLG"
   },
   {
-    "en": "Hlaingthaya",
-    "mm": "လှိုင်သာယာ",
+    "name": "Hlaingthaya",
+    "localName": "လှိုင်သာယာ",
     "shortName": "HLTY"
   },
   {
-    "en": "Kamayut",
-    "mm": "ကမာရွတ်",
+    "name": "Kamayut",
+    "localName": "ကမာရွတ်",
     "shortName": "KMYT"
   },
   {
-    "en": "Mayangon",
-    "mm": "မရမ်းကုန်း",
+    "name": "Mayangon",
+    "localName": "မရမ်းကုန်း",
     "shortName": "MYGN"
   },
   {
-    "en": "Mingaladon",
-    "mm": "မင်္ဂလာဒုံ",
+    "name": "Mingaladon",
+    "localName": "မင်္ဂလာဒုံ",
     "shortName": "MGDN"
   },
   {
-    "en": "Shwepyitha",
-    "mm": "ရွှေပြည်သာ",
+    "name": "Shwepyitha",
+    "localName": "ရွှေပြည်သာ",
     "shortName": "SPTA"
   }
 ]
