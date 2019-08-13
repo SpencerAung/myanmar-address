@@ -1,7 +1,8 @@
 {
   "name": "myanmar-address",
   "version": "1.0.0",
-  "description": "",
+  "description": "Myanmar state, region, district and township data",
+  "keywords": ["Myanmar address", "Myanmar State and Regions"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/SpencerAung/myanmar-address.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Spencer Aung",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SpencerAung/myanmar-address/issues"
   },
