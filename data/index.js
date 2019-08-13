@@ -1,78 +1,78 @@
-const { region, state, unionTerritory } = require('./types');
-const Yangon = require('./yangon');
+const { region, state, unionTerritory } = require('./types')
+
+const Yangon = require('./yangon')
+const Mandalay = require('./mandalay')
 
 module.exports = [
   {
     name: 'Ayeyarwady',
     localName: 'ဧရာဝတီ',
-    type: region,
+    type: region
   },
   {
     name: 'Bago',
     localName: 'ပဲခူး',
-    type: region,
+    type: region
   },
   {
     name: 'Chin',
     localName: 'ချင်း',
-    type: state,
+    type: state
   },
   {
     name: 'Kachin',
     localName: 'ကချင်',
-    type: state,
+    type: state
   },
   {
     name: 'Kayah',
     localName: 'ကယား',
-    type: state,
+    type: state
   },
   {
     name: 'Kayin',
     localName: 'ကရင်',
-    type: state,
+    type: state
   },
   {
     name: 'Magway',
     localName: 'မကွေး',
-    type: region,
+    type: region
   },
   {
-    name: 'Mandalay',
-    localName: 'မန္တလေး',
-    type: region,
+    ...Mandalay
   },
   {
     name: 'Mon',
     localName: 'မွန်',
-    type: state,
+    type: state
   },
   {
     name: 'Rakhine',
     localName: 'ရခိုင်',
-    type: state,
+    type: state
   },
   {
     name: 'Shan',
     localName: 'ရှမ်း',
-    type: state,
+    type: state
   },
   {
     name: 'Sagaing',
     localName: 'စစ်ကိုင်း',
-    type: region,
+    type: region
   },
   {
     name: 'Tanintharyi',
     localName: 'တနင်္သာရီ',
-    type: region,
+    type: region
   },
   {
-    ...Yangon,
+    ...Yangon
   },
   {
     name: 'Naypidaw',
     localName: 'နေပြည်တော်',
-    type: unionTerritory,
-  },
-];
+    type: unionTerritory
+  }
+]

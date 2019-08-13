@@ -1,4 +1,4 @@
-const { city } = require('../types');
+const { city } = require('../types')
 
 module.exports = [
   {
@@ -9,11 +9,11 @@ module.exports = [
   {
     name: 'Thanlyin',
     localName: 'သန်လျင်',
-    type: city,
+    type: city
   },
   {
     name: 'Yangon',
     localName: 'ရန်ကုန်',
     type: city
-  },
-];
+  }
+]

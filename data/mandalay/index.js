@@ -5,8 +5,8 @@ const districts = require('./districts')
 const townships = require('./townships')
 
 module.exports = {
-  name: 'Yangon',
-  localName: 'ရန်ကုန်',
+  name: 'Mandalay',
+  localName: 'မန္တလေး',
   type: region,
   divisions: [
     ...cities,

@@ -2,10 +2,14 @@
   "name": "myanmar-address",
   "version": "1.0.0",
   "description": "Myanmar state, region, district and township data",
-  "keywords": ["Myanmar address", "Myanmar State and Regions"],
+  "keywords": [
+    "Myanmar address",
+    "Myanmar State and Regions"
+  ],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "standard --fix"
   },
   "repository": {
     "type": "git",
@@ -16,5 +20,29 @@
   "bugs": {
     "url": "https://github.com/SpencerAung/myanmar-address/issues"
   },
-  "homepage": "https://github.com/SpencerAung/myanmar-address#readme"
+  "homepage": "https://github.com/SpencerAung/myanmar-address#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "husky": "^3.0.3",
+    "lint-staged": "^9.2.1",
+    "standard": "^13.1.0"
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run format",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "build"
+    ]
+  }
 }

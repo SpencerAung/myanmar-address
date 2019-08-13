@@ -1,17 +1,17 @@
 const region = {
   name: 'region',
-  localName: 'တိုင်းဒေသကြီး',
-};
+  localName: 'တိုင်းဒေသကြီး'
+}
 
 const state = {
   name: 'state',
-  localName: 'ပြည်နယ်',
-};
+  localName: 'ပြည်နယ်'
+}
 
 const unionTerritory = {
   name: 'union territory',
-  localName: 'ပြည်ထောင်စု နယ်မြေ',
-};
+  localName: 'ပြည်ထောင်စု နယ်မြေ'
+}
 
 const district = {
   name: 'district',
@@ -26,7 +26,7 @@ const township = {
 const city = {
   name: 'city',
   localName: 'မြို့'
-};
+}
 
 const ward = {
   name: 'ward',
@@ -42,9 +42,9 @@ module.exports = {
   region,
   state,
   unionTerritory,
-  ​district,
+  district,
   township,
   city,
   ward,
   village
-};
+}

@@ -1,4 +1,4 @@
-const { township } = require('../types');
+const { township } = require('../types')
 
 module.exports = [
   {
@@ -203,22 +203,22 @@ module.exports = [
   {
     name: 'Kawhmu',
     localName: 'ကော့မှူး',
-    type: township,
+    type: township
   },
   {
     name: 'Kyauktan',
     localName: 'ကျောက်တန်း',
-    type: township,
+    type: township
   },
   {
     name: 'Taikkyi',
     localName: 'တိုက်ကြီး',
-    type: township,
+    type: township
   },
   {
     name: 'Thongwa',
     localName: 'သုံးခွ',
-    type: township,
+    type: township
   },
   {
     name: 'Twante',
@@ -228,41 +228,41 @@ module.exports = [
   {
     name: 'Cocokyun',
     localName: 'ကိုကိုးကျွန်း',
-    type: township,
+    type: township
   },
   {
     name: 'Kawhmu',
     localName: 'ကော့မှူး',
-    type: township,
+    type: township
   },
   {
     name: 'Khayan',
     localName: 'ခရမ်း',
-    type: township,
+    type: township
   },
   {
     name: 'Kungyangon',
     localName: 'ကွမ်းခြံကုန်း',
-    type: township,
+    type: township
   },
   {
     name: 'Tadar',
     localName: 'တံတား',
-    type: township,
+    type: township
   },
   {
     name: 'Hmawbi',
     localName: 'မှော်ဘီ',
-    type: township,
+    type: township
   },
   {
     name: 'Htantabin',
     localName: 'ထန်းတပင်',
-    type: township,
+    type: township
   },
   {
     name: 'Taikkyi',
     localName: 'တိုက်ကြီး',
-    type: township,
+    type: township
   }
-];
+]
