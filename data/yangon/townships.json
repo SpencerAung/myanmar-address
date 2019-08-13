@@ -2,166 +2,166 @@
   {
     "en": "Ahlon",
     "mm": "အလုံ",
-    "code": "AHLN"
+    "shortName": "AHLN"
   },
   {
     "en": "Bahan",
     "mm": "ဗဟန်း",
-    "code": "BHN"
+    "shortName": "BHN"
   },
   {
     "en": "Dagon",
     "mm": "ဒဂုံ",
-    "code": "DGN"
+    "shortName": "DGN"
   },
   {
     "en": "Kyauktada",
     "mm": "ကျောက်တံတား",
-    "code": "KTDA"
+    "shortName": "KTDA"
   },
   {
     "en": "Kyimyindaing",
     "mm": "ကြည့်မြင်တိုင်",
-    "code": "KMDN"
+    "shortName": "KMDN"
   },
   {
     "en": "Lanmadaw",
     "mm": "လမ်းမတော်",
-    "code": "LMDW"
+    "shortName": "LMDW"
   },
   {
     "en": "Seikkan",
     "mm": "ဆိပ်ကမ်း",
-    "code": "SKN"
+    "shortName": "SKN"
   },
   {
     "en": "Latha",
     "mm": "လသာ",
-    "code": "LTA"
+    "shortName": "LTA"
   },
   {
     "en": "Pabedan",
     "mm": "ပန်းပဲတန်း",
-    "code": "PBDN"
+    "shortName": "PBDN"
   },
   {
     "en": "Sanchaung",
     "mm": "စမ်းချောင်း",
-    "code": "SCHG"
+    "shortName": "SCHG"
   },
   {
     "en": "Dagon Seikkan",
     "mm": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
-    "code": "DGSK"
+    "shortName": "DGSK"
   },
   {
     "en": "East Dagon",
     "mm": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
-    "code": "EDGN"
+    "shortName": "EDGN"
   },
   {
     "en": "North Dagon",
     "mm": "ဒဂုံမြို့သစ်မြောက်ပိုင်း",
-    "code": "NDGN"
+    "shortName": "NDGN"
   },
   {
     "en": "North Okkalapa",
     "mm": "မြောက်ဥက္ကလာပ",
-    "code": "NOKA"
+    "shortName": "NOKA"
   },
   {
     "en": "South Dagon",
     "mm": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
-    "code": "SDGN"
+    "shortName": "SDGN"
   },
   {
     "en": "South Okkalapa",
     "mm": "တောင်ဥက္ကလာပ",
-    "code": "SOKA"
+    "shortName": "SOKA"
   },
   {
     "en": "Thingangyun",
     "mm": "သင်္ကန်းကျွန်း",
-    "code": "TGGN"
+    "shortName": "TGGN"
   },
   {
     "en": "Dala",
     "mm": "ဒလ",
-    "code": "DALA"
+    "shortName": "DALA"
   },
   {
     "en": "Dawbon",
     "mm": "ဒေါပုံ",
-    "code": "DWBN"
+    "shortName": "DWBN"
   },
   {
     "en": "Botataung",
     "mm": "ဗိုလ်တထောင်",
-    "code": "BTHG"
+    "shortName": "BTHG"
   },
   {
     "en": "Mingala Taungnyunt",
     "mm": "မင်္ဂလာတောင်ညွန့်",
-    "code": "MTNT"
+    "shortName": "MTNT"
   },
   {
     "en": "Seikkyi Kanaungto",
     "mm": "ဆိပ်ကြီးခနောင်တို",
-    "code": "SGKT"
+    "shortName": "SGKT"
   },
   {
     "en": "Tamwe",
     "mm": "တာမွေ",
-    "code": "TWME"
+    "shortName": "TWME"
   },
   {
     "en": "Pazundaung",
     "mm": "ပုစွန်တောင်",
-    "code": "PZDG"
+    "shortName": "PZDG"
   },
   {
     "en": "Thaketa",
     "mm": "သာကေတ",
-    "code": "TKA"
+    "shortName": "TKA"
   },
   {
     "en": "Yankin",
     "mm": "ရန်ကင်း",
-    "code": "YKN"
+    "shortName": "YKN"
   },
   {
     "en": "Insein",
     "mm": "အင်းစိန်",
-    "code": "ISN"
+    "shortName": "ISN"
   },
   {
     "en": "Hlaing",
     "mm": "လှိုင်",
-    "code": "HLG"
+    "shortName": "HLG"
   },
   {
     "en": "Hlaingthaya",
     "mm": "လှိုင်သာယာ",
-    "code": "HLTY"
+    "shortName": "HLTY"
   },
   {
     "en": "Kamayut",
     "mm": "ကမာရွတ်",
-    "code": "KMYT"
+    "shortName": "KMYT"
   },
   {
     "en": "Mayangon",
     "mm": "မရမ်းကုန်း",
-    "code": "MYGN"
+    "shortName": "MYGN"
   },
   {
     "en": "Mingaladon",
     "mm": "မင်္ဂလာဒုံ",
-    "code": "MGDN"
+    "shortName": "MGDN"
   },
   {
     "en": "Shwepyitha",
     "mm": "ရွှေပြည်သာ",
-    "code": "SPTA"
+    "shortName": "SPTA"
   }
 ]
