@@ -1,1 +1,1 @@
-module.exports = require('./data/yangon');
+module.exports = require('./data');
