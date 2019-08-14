@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "description": "Myanmar state, region, district and township data",
   "keywords": [
-    "Myanmar address",
-    "Myanmar State and Regions"
+    "myanmar",
+    "address",
+    "divisions",
+    "state",
+    "region",
+    "city",
+    "town",
+    "township"
   ],
   "main": "index.js",
   "scripts": {
