@@ -1,154 +1,154 @@
-const { township } = require('../types');
+const { township } = require('../types')
 
 module.exports = [
   {
     name: 'Kyaukse',
     localName: 'ကျောက်ဆည်',
-    type: township,
+    type: township
   },
   {
     name: 'Myittha',
     localName: 'မြစ်သား',
-    type: township,
+    type: township
   },
   {
     name: 'Sintgaing',
     localName: 'စဉ့်ကိုင်',
-    type: township,
+    type: township
   },
   {
     name: 'Tada-U',
     localName: 'တံတားဦး',
-    type: township,
+    type: township
   },
   {
     name: 'Amarapura',
     localName: 'အမရပူရ',
-    type: township,
+    type: township
   },
   {
     name: 'Aungmyethasan',
     localName: 'အောင်မြေသာဇံ',
-    type: township,
+    type: township
   },
   {
     name: 'Chanayethazan',
     localName: 'ချမ်းအေးသာဇံ',
-    type: township,
+    type: township
   },
   {
     name: 'Chanmyathazi',
     localName: 'ချမ်းမြသာစည်',
-    type: township,
+    type: township
   },
   {
     name: 'Maha Aungmye',
     localName: 'မဟာအောင်မြေ',
-    type: township,
+    type: township
   },
   {
     name: 'Patheingyi',
     localName: 'ပုသိမ်ကြီး',
-    type: township,
+    type: township
   },
   {
     name: 'Pyigyitagon',
     localName: 'ပြည်ကြီးတံခွန်',
-    type: township,
+    type: township
   },
   {
     name: 'Mahlaing',
     localName: 'မလှိုင်',
-    type: township,
+    type: township
   },
   {
     name: 'Meiktila',
     localName: 'မိတ္ထီလာ',
-    type: township,
+    type: township
   },
   {
     name: 'Thazi',
     localName: 'သာစည်',
-    type: township,
+    type: township
   },
   {
     name: 'Wundwin',
     localName: 'ဝမ်းတွင်း',
-    type: township,
+    type: township
   },
   {
     name: 'Myingyan',
     localName: 'မြင်းခြံ',
-    type: township,
+    type: township
   },
   {
     name: 'Natogyi',
     localName: 'နွားထိုးကြီး',
-    type: township,
+    type: township
   },
   {
     name: 'Ngazun',
     localName: 'ငါန်းဇွန်',
-    type: township,
+    type: township
   },
   {
     name: 'Taungtha',
     localName: 'တောင်သာ',
-    type: township,
+    type: township
   },
   {
     name: 'Kyaukpadaung',
     localName: 'ကျောက်ပန်းတောင်း',
-    type: township,
+    type: township
   },
   {
     name: 'Nyaung-U',
     localName: 'ညောင်ဦး',
-    type: township,
+    type: township
   },
   {
     name: 'Ngathayauk',
     localName: 'ငါ့သရောက်',
-    type: township,
+    type: township
   },
   {
     name: 'Madaya',
     localName: 'မတ္တရာ',
-    type: township,
+    type: township
   },
   {
     name: 'Mogok',
     localName: 'မိုးကုတ်',
-    type: township,
+    type: township
   },
   {
     name: 'Pyinoolwin',
     localName: 'ပြင်ဦးလွင်',
-    type: township,
+    type: township
   },
   {
     name: 'Singu',
     localName: 'စဉ့်ကူး',
-    type: township,
+    type: township
   },
   {
     name: 'Thabeikkyin',
     localName: 'သပိတ်ကျဉ်း',
-    type: township,
+    type: township
   },
   {
     name: 'Tagaung',
     localName: 'တကောင်း',
-    type: township,
+    type: township
   },
   {
     name: 'Pyawbwe',
     localName: 'ပျော်ဘွယ်',
-    type: township,
+    type: township
   },
   {
     name: 'Yamethin',
     localName: 'ရမည်းသင်း',
-    type: township,
-  },
-];
+    type: township
+  }
+]

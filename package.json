@@ -8,8 +8,8 @@
   ],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "standard --fix"
+    "format": "standard --fix",
+    "test": "standard && jest"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "babel-eslint": "^10.0.2",
     "eslint": "^6.1.0",
     "husky": "^3.0.3",
+    "jest": "^24.8.0",
     "lint-staged": "^9.2.1",
     "standard": "^13.1.0"
   },
@@ -43,6 +44,7 @@
     "parser": "babel-eslint",
     "ignore": [
       "build"
-    ]
+    ],
+    "globals": ["describe", "expect", "it"]
   }
 }
