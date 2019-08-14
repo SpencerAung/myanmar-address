@@ -1,11 +1,21 @@
 {
   "name": "myanmar-address",
-  "version": "1.0.0",
+  "version": "0.1.0-alpha",
   "description": "Myanmar state, region, district and township data",
-  "keywords": ["Myanmar address", "Myanmar State and Regions"],
+  "keywords": [
+    "myanmar",
+    "address",
+    "divisions",
+    "state",
+    "region",
+    "city",
+    "town",
+    "township"
+  ],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "standard --fix",
+    "test": "standard && jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +26,31 @@
   "bugs": {
     "url": "https://github.com/SpencerAung/myanmar-address/issues"
   },
-  "homepage": "https://github.com/SpencerAung/myanmar-address#readme"
+  "homepage": "https://github.com/SpencerAung/myanmar-address#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "husky": "^3.0.3",
+    "jest": "^24.8.0",
+    "lint-staged": "^9.2.1",
+    "standard": "^13.1.0"
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run format",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "build"
+    ],
+    "globals": ["describe", "expect", "it"]
+  }
 }
